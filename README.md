@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaybhagat
 - 📚 I'm pursuing a Bachelor of Computer Science (BCS) degree at the University of Waterloo in the Co-op program.
-- 👀 I’m interested in Fullstack Development, Mobile Application Development, and Cloud Developement! I want to learn more about AWS and its applications.
+- 👀 I’m interested in Fullstack Development and ML! I want to learn more about AWS and its applications.
 - 🌱 I’m currently proficient in React.
 - 📫 You can reach me by emailing me at jaybhagat0515@gmail.com or jbhagat@uwaterloo.ca, or by messaging me on [LinkedIn](https://www.linkedin.com/in/jay-bhagat-575117194/)
 
